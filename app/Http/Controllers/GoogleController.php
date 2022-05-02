@@ -8,7 +8,7 @@ use Exception;
 use App\Models\User;
 use Illuminate\Support\Facades\Auth;
 
-class GoogleControllerumn extends Controller
+class GoogleController extends Controller
 {
     //
     /**

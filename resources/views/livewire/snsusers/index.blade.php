@@ -16,7 +16,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    @foreach ($students as $student)
+                    @foreach ($snsusers as $snsuser)
                         <tr>
                             <td class="border px-4 py-2">{{ $snsuser->firstname }}</td>
                             <td class="border px-4 py-2">{{ $snsuser->lastname }}</td>

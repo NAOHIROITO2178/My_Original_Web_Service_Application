@@ -8,7 +8,7 @@
     <div class="rounded overflow-hidden shadow-lg">
         <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">ユーザーの皆さん</div>
-            @include('livewire.students.create')
+            @include('livewire.snsusers.create')
         </div>
         <div class="px-6 pt-4 pb-2">
             <table class="table-auto w-full">
